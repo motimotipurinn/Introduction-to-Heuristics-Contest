@@ -18,3 +18,8 @@ g++ main.cpp
 python3 tester.py input.txt output.txt
 firefox vis.html
 ```
+参考
+
+https://atcoder.jp/contests/intro-heuristics/editorial
+
+https://qiita.com/ganyariya/items/52a36af7fb39da1c9527
