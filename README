@@ -1,0 +1,6 @@
+使い方
+python3 generator.py 1234 > input.txt
+g++ main.cpp
+./a.out < input.txt > output.txt
+python3 tester.py input.txt output.txt
+firefox vis.html
